@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=ball\ world
+comment0.target=void\ handleRequest(Ball,\ BreakoutWorld1)
+comment1.params=next
+comment1.target=void\ setSuccessor(ICollisionHandler)
+numComments=2

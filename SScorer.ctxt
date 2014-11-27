@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=scorer
+comment0.target=SScorer(IScoreStrategy)
+comment1.params=
+comment1.target=int\ executeStrategy()
+numComments=2

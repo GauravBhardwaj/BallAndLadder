@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=ball
+comment0.target=BallReleasedState(Ball)
+comment1.params=
+comment1.target=void\ startMovement()
+comment2.params=
+comment2.target=void\ ballIsOut()
+numComments=3

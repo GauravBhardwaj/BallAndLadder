@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=o
+comment0.target=void\ attach(ISpecialBlockObserver)
+comment1.params=collider
+comment1.target=void\ setState(java.lang.String)
+comment2.params=
+comment2.target=void\ notifyObservers()
+comment3.params=
+comment3.target=java.lang.String\ getState()
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ SpecialBlock\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=5

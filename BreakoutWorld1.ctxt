@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BreakoutWorld1()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ BreakOutWorld1.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ The\ World's\ act\ method.\ Calls\ KinectWorld's\ act\ method\ to\ initialise.\r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\r\n\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment3.params=
+comment3.target=void\ ballIsOut()
+comment3.text=\r\n\ Ball\ has\ exited\ from\ the\ bottom\ of\ the\ world.\ Resets\ the\ paddle\ to\ normal\ size\ and\ associates\ a\ new\ ball\ with\ it.\ \r\n
+comment4.params=
+comment4.target=void\ gameOver()
+comment4.text=\r\n\ Resets\ the\ scoreboard\ and\ clears\ this\ world's\ objects\ and\ moves\ back\ to\ the\ Start\ Screen\r\n
+comment5.params=
+comment5.target=Paddle\ getPaddle()
+comment5.text=\r\n\ Returns\ the\ paddle\ in\ this\ world\r\n
+numComments=6

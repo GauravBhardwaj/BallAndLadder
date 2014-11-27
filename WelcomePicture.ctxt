@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=world
+comment0.target=WelcomePicture(greenfoot.World)
+comment1.params=c
+comment1.target=void\ addChild(IWelcomeComponent)
+comment2.params=c
+comment2.target=void\ removeChild(IWelcomeComponent)
+comment3.params=
+comment3.target=void\ draw()
+comment4.params=
+comment4.target=void\ translateOut()
+comment5.params=
+comment5.target=int\ getSize()
+numComments=6

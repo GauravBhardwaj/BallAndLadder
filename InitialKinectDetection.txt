@@ -1,0 +1,7 @@
+if (user == null) {
+            initialNote.setImage(new GreenfootImage("No user detected", 20, Color.WHITE, Color.RED));
+            getWorld().addObject(initialNote, 80, 10);
+        }
+        else if (user.startedCalibrating()) initialNote.setImage(new GreenfootImage("Calibrating", 20, Color.WHITE, Color.RED));
+        else if (user.startedTracking())initialNote.setImage(new GreenfootImage("We're in business!", 20, Color.WHITE, Color.RED));
+       

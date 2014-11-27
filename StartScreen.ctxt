@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StartScreen()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ initialize()
+comment3.text=\r\n\ Adds\ the\ start\ screen\ composite\ graphics\r\n
+comment4.params=
+comment4.target=void\ kinectController()
+comment4.text=\r\n\ Provides\ Kinect\ Controls\ on\ the\ Start\ Screen\r\n
+numComments=5

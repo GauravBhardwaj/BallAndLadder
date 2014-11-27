@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=imageName\ x\ y\ world
+comment0.target=WelcomeGraphic(java.lang.String,\ int,\ int,\ greenfoot.World)
+comment1.params=c
+comment1.target=void\ addChild(IWelcomeComponent)
+comment2.params=c
+comment2.target=void\ removeChild(IWelcomeComponent)
+comment3.params=
+comment3.target=void\ draw()
+comment4.params=
+comment4.target=void\ translateOut()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=int\ getSize()
+numComments=7
